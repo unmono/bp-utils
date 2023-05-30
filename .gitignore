@@ -1,0 +1,6 @@
+bp-utils-venv
+.idea/
+__pycache__/
+.pytest_cache/
+.env
+testprice.xlsx
